@@ -1,16 +1,9 @@
 # shoolify_test
 
-A new Flutter project.
+This app using flutter bloc. also i have try to show off how I work in this project mean while the project ui have only 2 screen one is for text field that takes inoput from user and other is for reulst view i also try to handle the errors. you can check it.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/Suzefa/shoolify_test/assets/92567854/fa55bfa3-801c-4bec-a396-5549be5d5bf2
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
